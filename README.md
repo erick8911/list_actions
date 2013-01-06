@@ -1,6 +1,6 @@
 # ListActions
 
-TODO: Write a gem description
+gem to generate a csv file with all the actions
 
 ## Installation
 
@@ -20,11 +20,12 @@ Or install it yourself as:
 
 In your project 
 
-  $ rails c
-  $ require "list_actions"
-  $ ListActions.csv
+    $ rails c
+    $ require "list_actions"
+    $ ListActions.csv
 
 This will generate a file named "all_my_actions.csv"
+
   
 
 ## Contributing
