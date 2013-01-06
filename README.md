@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your project 
+
+  $ rails c
+  $ require "list_actions"
+  $ ListActions.csv
+
+This will generate a file named "all_my_actions.csv"
+  
 
 ## Contributing
 
